@@ -1,18 +1,83 @@
-# 💫 About Me:
-Computer Science student building practical full-stack systems with real users, real constraints, and real deployments.<br>I’m looking to collaborate on <br>full-stack, cloud, or system-design–focused projects that solve real problems.<br>I’m looking for help with<br>System scalability, backend architecture, and production-grade cloud deployments.<br>I’m currently learning<br>Cloud computing (AWS), backend optimization, APIs, and deployment best practices.<br>Ask me about<br>Full-stack development, REST APIs, React, FastAPI, MongoDB, and building end-to-end projects.<br>Fun fact<br>I prefer shipping imperfect working systems over perfect ideas that never launch
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2A93B,100:4FD1C5&height=200&section=header&text=Hi,%20I'm%20Prajwal&fontSize=45&fontColor=0F1216&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20%7C%20Machine%20Learning%20%7C%20Full-Stack&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prajwalp21/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajwalp2125@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FD1C5&center=true&vCenter=true&width=600&lines=Building+things+that+solve+real+problems;Currently%3A+ML+%2B+Computer+Vision;Previously%3A+full-stack%2C+still+full-stack;Turning+messy+data+into+working+systems" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prjawal21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prjawal21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prjawal21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=prjawal21&icon=0&color=0)](https://visitcount.itsvg.in)
+### 👋 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I like building things that actually get used, not just things that work in a notebook.
+
+That's meant a lot of different problems: cleaning noisy sensor data for a road-quality
+classifier, building a RAG chatbot that guides people through government employment schemes,
+shipping a full-stack diet-management platform for a hackathon, and more full-stack apps
+along the way. The common thread isn't the tech stack, it's that I care about the "real
+world problem" part more than the "impressive tech" part.
+
+Right now that curiosity is pulling me deeper into ML and computer vision, but I haven't
+left full-stack behind. I still think the best ML project is the one someone can actually
+open in a browser and use.
+
+- 🔭 **Currently exploring:** computer vision, multimodal ML, and retrieval-augmented systems
+- 🌱 **Learning:** deployment and scaling for ML-backed products
+- 🤝 **Open to collaborating on:** projects that solve a real, specific problem for real users
+- 💬 **Ask me about:** PyTorch, OpenCV, FastAPI, React, Spring Boot, or RAG pipelines
+- ⚡ **Fun fact:** I'll ship an imperfect working system over a perfect idea that never launches
+
+<br>
+
+### 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalp21/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalp2125@gmail.com)
+
+</div>
+
+### 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,fastapi,spring,mongodb,mysql,aws,git,pytorch,opencv&theme=dark" />
+
+</div>
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prjawal21&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prjawal21&theme=radical&hide_border=true&layout=compact" height="165"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=prjawal21&theme=radical&hide_border=true" width="70%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=prjawal21&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
+
+</div>
+
+<!--
+  Optional next step (a bit more setup, but a nice touch):
+  A "snake" animation that eats your contribution graph. Needs a GitHub Action
+  in this repo — see https://github.com/Platane/snk for the 5-minute setup.
+  Once set up, this is the embed:
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/prjawal21/prjawal21/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://github.com/prjawal21/prjawal21/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+-->
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=prjawal21&icon=0&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FD1C5,100:F2A93B&height=100&section=footer" width="100%"/>
