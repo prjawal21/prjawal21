@@ -55,7 +55,6 @@ open in a browser and use.
 <img src="https://github-stats-extended.vercel.app/api?username=prjawal21&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" height="165"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=prjawal21&theme=radical&hide_border=true&layout=compact" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=prjawal21&theme=radical&hide_border=true" width="70%"/>
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=prjawal21&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
 </div>
 
 <!--
